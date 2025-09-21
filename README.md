@@ -221,13 +221,6 @@ streamlit run placement_dashboard.py --server.port 8502 # Admin dashboard
 - **LinkedIn**: [Amarendra Pratap Singh](https://www.linkedin.com/in/orbaps)
 - **Email**: amarendrapratapsingh.2004@gmail.com
 
-## Original Creator
-- **Name**: Bellmir Yahya
-- **GitHub**: [Yasouimo](https://github.com/Yasouimo)
-- **LinkedIn**: [Yahya Bellmir](https://www.linkedin.com/in/yahya-bellmir-a54176284/)
-- **Email**: yahyabellmir@gmail.com
-
----
 
 ## 📝 License
 This project is open source and available under the [MIT License](LICENSE).
@@ -245,4 +238,4 @@ Found a bug or want to contribute?
 
 ---
 
-**🚀 Built with ❤️ by [Amarendra Pratap Singh](https://github.com/orbaps) | Enhanced from original work by [Bellmir Yahya](https://github.com/Yasouimo)**
+**🚀 Built with ❤️ by [Amarendra Pratap Singh](https://github.com/orbaps)
